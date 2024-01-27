@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X330nhYJIusjBy9Pk5L0RnqosByjgxkjbRWphC9wo8E=",
+  "Source": "aspnetcore-redis-todo",
+  "BasePath": "_content/aspnetcore-redis-todo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
